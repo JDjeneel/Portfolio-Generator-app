@@ -1,2 +1,14 @@
-# Portfolio-Generator-app
-The above app uses are: • Edit Event Form  • Fully responsive for mobile and desktop • Two design templates (modern &amp; classic layout)
+
+# Portfolio Generator Starter
+
+Features:
+- Fill form with personal info, skills, and projects
+- Choose between Classic and Modern templates
+- Live preview
+- Export JSON (and print to PDF via browser)
+
+## Quick Start
+```bash
+npm install
+npm run dev
+```
